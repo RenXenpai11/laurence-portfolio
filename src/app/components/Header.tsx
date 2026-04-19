@@ -38,7 +38,7 @@ export function Header({ scrollProgress }: HeaderProps) {
           <a href="#skills" className="nav-link">SKILLS</a>
           <a
             href="mailto:laurencejan1431@gmail.com?subject=Let's Work Together"
-            className="collab-btn premium-cta px-6 py-2.5 rounded-full bg-[#00d9ff] text-[#0a0a0f] hover:bg-[#00f0ff] transition-all duration-300 inline-block"
+            className="collab-btn premium-cta px-6 py-2.5 rounded-full bg-[#00d9ff] text-[#0a0a0f] hover:bg-[#00f0ff] transition-all duration-300 inline-block no-underline"
           >
             LET'S WORK TOGETHER
           </a>
